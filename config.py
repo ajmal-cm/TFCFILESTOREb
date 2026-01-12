@@ -8,23 +8,23 @@ OWNER_ID = 6497757690
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
+SHORT_URL = "gplinks.com" # shortner url 
+SHORT_API = "6c6d4bbacdbdc29e6048a6872d4f2a3dbc893e0e" 
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+TOKEN = "8381837271:AAHdZ8TC6cVtXoAkxtXWRa0yq0o_ChtpEzM"
+API_ID = "27806628"
+API_HASH = "25d88301e886b82826a525b7cf52e090"
 WORKERS = 5
 
-DB_URI = "mongodb"
+DB_URI = "mongodb+srv://Bossaahubdb:pmDPc44XLRB097vm@cluster0.unuj1k8.mongodb.net/?appName=Cluster0"
 DB_NAME = "yato"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL = "-1003510266201" # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
